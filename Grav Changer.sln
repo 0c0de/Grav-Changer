@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A77DC113-AC52-AD09-B0E6-CCCA61D11CEF}") = "Grav Changer", "Assembly-CSharp-firstpass.csproj", "{687C3194-ADF6-770A-2F2A-FDB42ABEAF57}"
+EndProject
+Project("{A77DC113-AC52-AD09-B0E6-CCCA61D11CEF}") = "Grav Changer", "Assembly-CSharp.csproj", "{C972FC62-5592-CB3F-DD3B-46849C38DDF9}"
+EndProject
+Project("{A77DC113-AC52-AD09-B0E6-CCCA61D11CEF}") = "Grav Changer", "Assembly-CSharp-Editor.csproj", "{E606ECC2-FD46-56AE-285B-DBFEE1A1FE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{687C3194-ADF6-770A-2F2A-FDB42ABEAF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687C3194-ADF6-770A-2F2A-FDB42ABEAF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687C3194-ADF6-770A-2F2A-FDB42ABEAF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687C3194-ADF6-770A-2F2A-FDB42ABEAF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C972FC62-5592-CB3F-DD3B-46849C38DDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C972FC62-5592-CB3F-DD3B-46849C38DDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C972FC62-5592-CB3F-DD3B-46849C38DDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C972FC62-5592-CB3F-DD3B-46849C38DDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E606ECC2-FD46-56AE-285B-DBFEE1A1FE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E606ECC2-FD46-56AE-285B-DBFEE1A1FE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E606ECC2-FD46-56AE-285B-DBFEE1A1FE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E606ECC2-FD46-56AE-285B-DBFEE1A1FE88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
